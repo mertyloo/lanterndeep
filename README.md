@@ -3,8 +3,6 @@
 A cozy mining roguelite about your grandfather's abandoned shaft — dig, follow the veins,
 and get back up before the lantern dies.
 
-**One HTML file. No engine, no build step, no dependencies.** Every texture, sprite, sound
-and note you see or hear is generated in code at runtime.
 
 ▶ **[Play in your browser](https://mertyloo.github.io/lanterndeep/)** · 💾 [Desktop build](#desktop-build)
 
@@ -99,20 +97,6 @@ Everything lives in `index.html` — roughly 4,000 lines of vanilla JavaScript, 
   window with one transform, so it looks identical from 1280×800 up to 4K.
 - **Saving**: `localStorage`, with migration from older save formats.
 
-## Project structure
-
-```
-index.html                      the entire game
-desktop/                        launcher + Electron packaging scripts
-docs/design-notes.md            design and balance notes
-docs/screenshots/               screenshots used in this README
-```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
-
 ---
 
 Made by **Merthan Keleş** ([@mertyloo](https://github.com/mertyloo)).
-Inspired by *Rock Bottom* and *Keep on Mining!*
