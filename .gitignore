@@ -1,0 +1,13 @@
+# built desktop application (created by desktop/build/MAKE EXE)
+/Lanterndeep/
+desktop/build/index.html
+desktop/build/node_modules/
+
+# os / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.zip
