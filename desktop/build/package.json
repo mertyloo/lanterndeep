@@ -1,0 +1,8 @@
+{
+  "name": "lanterndeep",
+  "productName": "Lanterndeep",
+  "version": "1.0.0",
+  "description": "A cozy mining roguelite",
+  "main": "main.js",
+  "license": "MIT"
+}
